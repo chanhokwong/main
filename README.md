@@ -26,8 +26,8 @@
 ### 自定義工具Tools
 ### Tavily搜索
 ### RAG
-#### 多種類型文件讀取器Loader txt, pdf, md, csv
-#### 多種切割器Splitter 標點符號 段落標籤 語義
+* #### 多種類型文件讀取器Loader txt, pdf, md, csv
+* #### 多種切割器Splitter 標點符號 段落標籤 語義
 
 ## 大模型開發部署 
 ### 服務器部署 FastAPI + Docker + Ubuntus 22.04 Virtual Env Server
